@@ -12,6 +12,7 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("Hello World");
             System.out.println("Hello World from task 3");
+            System.out.println("Hello World from task 4");
         }
     }
 }
